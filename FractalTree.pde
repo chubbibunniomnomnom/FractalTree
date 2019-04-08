@@ -1,7 +1,7 @@
 private double fractionLength = .8; 
 private int smallestBranch = 10; 
 private double branchAngle = .4; 
-private double stroke = 10; 
+//private double width = 10; 
 public void setup() 
 {   
 	size(640,480);    
